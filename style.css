@@ -1,0 +1,9 @@
+body{
+  background-color:azure;
+}
+button{
+  background-color: #ff9dd9;
+  font-size:30px;
+  font-family:Georgia;
+  border: solid 2px gray;
+}
